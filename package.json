@@ -11,8 +11,14 @@
     },
     "devDependencies": {
         "axios": "^0.25",
+        "bootstrap-sass": "^3.4.3",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "laravel": "^0.0.1",
+        "laravel-echo": "^1.15.0",
+        "pusher-js": "^8.0.2"
     }
 }
